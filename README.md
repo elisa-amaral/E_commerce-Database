@@ -1,6 +1,6 @@
 # E-Commerce Database
 
-This project is a database (queries + Entity-Relationship Diagram) for a fictional. The queries where coded in MySQL (MariaDB). The Entity-Relationship Diagram was created with DBDesigner 4.
+This project is a database (queries + Entity-Relationship Diagram) for a fictional e-commerce. The queries where coded in MySQL (MariaDB). The Entity-Relationship Diagram was created with DBDesigner 4.
 
 ## Entity-Relationship Diagram (ERD)
 
