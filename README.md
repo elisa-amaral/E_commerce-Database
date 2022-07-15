@@ -4,7 +4,7 @@ This project is a database (queries + Entity-Relationship Diagram) for a fiction
 
 ## Entity-Relationship Diagram (ERD)
 
-![Screenshot](E-commerce_Database_Entity-Relationship_Diagram_Image)
+![Screenshot](E-commerce_Database_Entity-Relationship_Diagram_Image.jpg)
 
 ## Technology Stack
 
